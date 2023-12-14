@@ -185,6 +185,9 @@
     },
     "file_csproj": {
       "iconPath": "./icons/csproj.svg"
+    },
+    "file_solidity": {
+      "iconPath": "./icons/solidity.svg"
     }
   },
   "file": "file_text",
@@ -313,6 +316,7 @@
     "rs": "file_rust",
     "cs": "file_cs",
     "cshtml": "file_cshtml",
-    "csproj": "file_csproj"
+    "csproj": "file_csproj",
+    "sol": "file_solidity"
   }
 }
